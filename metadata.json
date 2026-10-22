@@ -1,0 +1,6 @@
+{
+  "name": "AlphaMarket - Prediction Market Mispricing Engine",
+  "description": "Quantitative mispricing detection agent and analytical engine for prediction markets with historical revenue models, Platt calibration, Brier scoring, and conservative EV filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
